@@ -1,30 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f885f95.chunk.css",
-    "main.js": "/static/js/main.02aef97a.chunk.js",
-    "main.js.map": "/static/js/main.02aef97a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c393a090.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c393a090.js.map",
-    "static/css/2.c25e8228.chunk.css": "/static/css/2.c25e8228.chunk.css",
-    "static/js/2.38ef568e.chunk.js": "/static/js/2.38ef568e.chunk.js",
-    "static/js/2.38ef568e.chunk.js.map": "/static/js/2.38ef568e.chunk.js.map",
+    "main.css": "/static/css/main.f3b3f66e.chunk.css",
+    "main.js": "/static/js/main.8293e67f.chunk.js",
+    "main.js.map": "/static/js/main.8293e67f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0a9a0672.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0a9a0672.js.map",
+    "static/js/2.4aeec17c.chunk.js": "/static/js/2.4aeec17c.chunk.js",
+    "static/js/2.4aeec17c.chunk.js.map": "/static/js/2.4aeec17c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.642a8c7f66eb70da78cdb1c55fe61537.js": "/precache-manifest.642a8c7f66eb70da78cdb1c55fe61537.js",
+    "precache-manifest.f0b9f3a647b5799ad2e6dcce7c623a15.js": "/precache-manifest.f0b9f3a647b5799ad2e6dcce7c623a15.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.c25e8228.chunk.css.map": "/static/css/2.c25e8228.chunk.css.map",
-    "static/css/main.5f885f95.chunk.css.map": "/static/css/main.5f885f95.chunk.css.map",
-    "static/js/2.38ef568e.chunk.js.LICENSE.txt": "/static/js/2.38ef568e.chunk.js.LICENSE.txt",
-    "static/media/ZKZg.gif": "/static/media/ZKZg.edf4241f.gif",
-    "static/media/lightgallery.css": "/static/media/lg.ecff1170.eot",
-    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg",
-    "static/media/slider.jpg": "/static/media/slider.235b45dc.jpg",
-    "static/media/slider2.jpg": "/static/media/slider2.5136e6be.jpg"
+    "static/css/main.f3b3f66e.chunk.css.map": "/static/css/main.f3b3f66e.chunk.css.map",
+    "static/js/2.4aeec17c.chunk.js.LICENSE.txt": "/static/js/2.4aeec17c.chunk.js.LICENSE.txt",
+    "static/media/audio.mp3": "/static/media/audio.d66c22b6.mp3",
+    "static/media/loginBanner.PNG": "/static/media/loginBanner.6ad427eb.PNG",
+    "static/media/mv-vn-2x.jpg": "/static/media/mv-vn-2x.99463def.jpg",
+    "static/media/song-vn-2x.jpg": "/static/media/song-vn-2x.65e43c53.jpg",
+    "static/media/web_song_kpop.png": "/static/media/web_song_kpop.0171f1ad.png",
+    "static/media/web_song_usuk.png": "/static/media/web_song_usuk.74ace1db.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c393a090.js",
-    "static/css/2.c25e8228.chunk.css",
-    "static/js/2.38ef568e.chunk.js",
-    "static/css/main.5f885f95.chunk.css",
-    "static/js/main.02aef97a.chunk.js"
+    "static/js/runtime-main.0a9a0672.js",
+    "static/js/2.4aeec17c.chunk.js",
+    "static/css/main.f3b3f66e.chunk.css",
+    "static/js/main.8293e67f.chunk.js"
   ]
 }
